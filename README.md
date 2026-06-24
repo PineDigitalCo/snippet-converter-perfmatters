@@ -2,6 +2,12 @@
 
 Convert third-party code snippet JSON exports into [Perfmatters](https://perfmatters.io/) PMCS import format.
 
+I coded this for my sites and wanted to share it. It has saved me a TON of time. 
+
+Currently, Perfmatters only allows you to import snippets that were created within Perfmatters. This plugin allows you to get around that by converting third-party code snippet JSON exports into the Perfmatters PMCS import format.
+
+In other words, if you are currently using a code snippets plugin that allows you to export snippets to a JSON file, you can easily import those snippets into Perfmatters.
+
 ## Requirements
 
 - WordPress 5.8+
