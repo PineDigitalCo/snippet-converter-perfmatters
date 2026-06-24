@@ -28,3 +28,8 @@ composer run dist-zip
 ## License
 
 GPL-2.0-or-later
+
+## Software Use Disclaimer
+
+- *Use at Your Own Risk:* All software, plugins, themes, code snippets, and tools provided or recommended are offered "as is" without any warranties, express or implied. You assume full responsibility for any risks associated with downloading, installing, configuring, or using the software.
+- *Limitation of Liability:* In no event shall we (or any contributors, affiliates, or licensors) be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to loss of data, business interruption, or any other losses arising from your use (or inability to use) the software, even if advised of the possibility of such damages.
