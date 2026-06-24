@@ -1,0 +1,16 @@
+{
+  "generator": "WPCode",
+  "version": "2.1.0",
+  "snippets": [
+    {
+      "title": "WPCode Footer Script",
+      "code_type": "js",
+      "code": "console.log('wpcode');"
+    },
+    {
+      "title": "WPCode PHP Hook",
+      "code_type": "php",
+      "code": "<?php\nadd_action('init', static function () {});"
+    }
+  ]
+}

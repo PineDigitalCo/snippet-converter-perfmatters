@@ -1,0 +1,11 @@
+{
+  "1-sample-snippet.php": {
+    "meta": {
+      "name": "Sample Perfmatters Snippet",
+      "type": "php",
+      "active": 1,
+      "priority": 10
+    },
+    "code": "add_action('init', static function () {});"
+  }
+}

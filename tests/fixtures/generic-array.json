@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Generic Header Tag",
+    "content": "<script>console.log('generic');</script>"
+  },
+  {
+    "title": "Generic PHP",
+    "body": "<?php echo 'generic';"
+  }
+]
